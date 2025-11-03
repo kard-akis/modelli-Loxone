@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://github.com/kard-akis/modelli-Loxone/blob/main/src/images/logo.png" alt="LOXONE" style="width:20%; height:auto;">
+  <img src="https://github.com/kard-akis/modelli-Loxone/blob/main/src/images/logo.png" alt="LOXONE" style="width:40%; height:auto;">
 </h1>
 
   [![Website](https://github.com/kard-akis/modelli-Loxone/blob/main/src/badges/sito%20web_%20LOXONE.svg)](https://www.loxone.com/itit/)
